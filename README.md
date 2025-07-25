@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi, I'm Rashane 👋
+
+🎓 3rd-year Biomedical Engineering undergraduate at the University of Moratuwa.  
+⚡ Passionate about electronics, signal processing, and circuit design.  
+🧠 Exploring wearable devices and AI for healthcare innovation.  
 
 <!--
 **Rashane02/Rashane02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
