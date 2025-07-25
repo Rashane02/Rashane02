@@ -15,5 +15,5 @@
   <img src=./assets/altium-designer.png width="50" height="50" alt="Altium Designer"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" height="50" alt="Arduino"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50" height="50" alt="OpenCV"/>
-  <img src=./assets/solidworks_logo.png width="50" height="50" alt="SolidWorks"/>
+  <img src=./assets/solidworks_logo2.png width="50" height="50" alt="SolidWorks"/>
 </p>
