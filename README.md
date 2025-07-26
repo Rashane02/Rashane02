@@ -2,9 +2,11 @@
 
 <p align="center">
 🎓 3rd-year Biomedical Engineering undergraduate at the University of Moratuwa. <br>
-⚡ Passionate about electronics, signal processing, and circuit design. <br>
-🧠 Exploring wearable devices and AI for healthcare innovation.
+⚡ Passionate about electronics, signal processing, machine learning and circuit design. <br>
+🧠 Exploring development of wearable devices and AI for healthcare innovation.
 </p>
+
+---
 
 <h3 align="center">🧰 Tools & Technologies I Use</h3>
 
@@ -18,4 +20,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50" height="50" alt="OpenCV"/>
   <img src="./assets/solidworks_logo2.png" width="50" height="50" alt="SolidWorks"/>
 </p>
-
